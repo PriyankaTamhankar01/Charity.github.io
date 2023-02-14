@@ -22,6 +22,15 @@ A simple website where payment gateway is integrated.
 
 **Payment Method:**  RAZORPAY
 
+## Landing Page
+![Charity United](https://user-images.githubusercontent.com/90240653/218729774-ae9ee2b5-0d39-4a8b-bc94-8b90a30ee716.png)
+## Donate Page
+![Donate Page](https://user-images.githubusercontent.com/90240653/218730041-e41ea46a-f771-40a4-9eb6-6f67ca7fb9fc.png)
+## Payment Page
+![Payment](https://user-images.githubusercontent.com/90240653/218730150-cc49ae73-6b72-4ec7-8474-b72cc27b065e.png)
+## Payment Done(Email)
+![email](https://user-images.githubusercontent.com/90240653/218729513-80d47be3-436b-47d4-b538-150494e3fab7.png)
+
 
 
 
